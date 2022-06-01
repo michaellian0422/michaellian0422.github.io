@@ -513,7 +513,8 @@ body {
   }
 
   #imgs {
-    -webkit-user-modify: read-write-plaintext-only;
+    display: flex;
+    flex-wrap: wrap;
   }
   
   #profile_img_blog {
