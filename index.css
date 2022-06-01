@@ -360,6 +360,7 @@ body {
   margin: 3vh 0px !important;
 }
 
+
 .socials span {
   display: inline-block !important;
   margin-right: 2vw !important;
@@ -410,6 +411,17 @@ body {
   border: 1px solid rgb(0, 0, 0, 0);
   box-shadow: 0px 15px 35px rgb(0, 0, 0, 0.06);
   transform: scale(1.03);
+}
+
+#imgs {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#imgs img{
+  width:300px;
+  height:300px;
+  padding:1em;
 }
 
 .go_back {
@@ -507,15 +519,6 @@ body {
     z-index: 1;
   }
 
-  #imgs {
-    display: flex;
-    flex-wrap: wrap;
-  }
-  #imgs img{
-  width:300px;
-  height:300px;
-  padding:1em;
-}
   
   #profile_img_blog {
     width: 65px;
