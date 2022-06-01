@@ -21,7 +21,7 @@ body {
 }
 
 .LianHoYeung {
-    font-size: 64px;
+    font-size: 4vw;
     position: relative;
     text-align: center;
     animation: animatetop 0.4s
@@ -45,7 +45,7 @@ body {
 }
 
 .Welcome {
-    font-size: 18px;
+    font-size: 2vw;
     width: auto;
     text-align: center
 }
