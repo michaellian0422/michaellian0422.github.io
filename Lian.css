@@ -45,7 +45,7 @@ body {
 }
 
 .Welcome {
-    font-size: 1.7vw;
+    font-size: 18px;
     width: auto;
     text-align: center
 }
@@ -180,4 +180,11 @@ body {
 
 .headingabout {
     color: black
+}
+
+@media (max-width: 800px) {
+    .Welcome {
+    font-size: 2vw;
+    width: auto;
+    text-align: center
 }
