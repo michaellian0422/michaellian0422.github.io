@@ -516,6 +516,11 @@ body {
     display: flex;
     flex-wrap: wrap;
   }
+  #imgs img{
+  width:300px;
+  height:300px;
+  padding:1em;
+}
   
   #profile_img_blog {
     width: 65px;
