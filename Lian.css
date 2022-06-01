@@ -45,12 +45,14 @@ body {
 }
 
 .Welcome {
-    font-size: 1vw;
+    font-size: 1.7vw;
     width: auto;
     text-align: center
 }
 
 .Buttom {
+    margin: 0 auto;
+    justify-content: center;
     text-align-last: center;
 }
 
