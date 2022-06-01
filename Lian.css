@@ -50,19 +50,23 @@ body {
     text-align: center
 }
 
+.Buttom {
+    text-align-last: center;
+}
+
 .Bottom {
     width: 70%;
     border-radius: 2%;
     background-color: rgb(121, 194, 137);
     text-align: center;
     display: inline-block;
-    position: absolute;
-    bottom: -10%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    /* position: absolute; */
+    /* bottom: -10%; */
+    /* left: 50%; */
+    /* transform: translate(-50%, -50%); */
     -ms-transform: translate(-50%, -50%);
     text-decoration: none;
-    color: black
+    color: black;
 }
 
 .background {
