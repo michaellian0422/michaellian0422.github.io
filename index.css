@@ -512,6 +512,10 @@ body {
     z-index: 1;
   }
 
+  #imgs {
+    -webkit-user-modify: read-write-plaintext-only;
+  }
+  
   #profile_img_blog {
     width: 65px;
     height: 65px;
