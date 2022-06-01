@@ -57,7 +57,7 @@ body {
     text-align: center;
     display: inline-block;
     position: absolute;
-    top: 10 0%;
+    bottom: -10%;
     left: 50%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
